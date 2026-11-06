@@ -2,8 +2,8 @@
 
 This fork is [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) `master` (`990f4de3cc`,
 v1.9.15) plus a small, self-contained patch to `pkg/xiaomi/miss/**`. It improves
-cold-start reliability for battery-powered Xiaomi/70mai camera doorbells that use the
-`cs2` transport and emit HEVC. No changes outside `pkg/xiaomi/miss/**`.
+cold-start reliability for battery-powered Xiaomi `miss` camera doorbells that use
+the `cs2` transport and emit HEVC. No changes outside `pkg/xiaomi/miss/**`.
 
 ## Why
 
